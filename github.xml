@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="cd13046e-17a1-406d-9024-03c2a75cae4e" name="Skrachi">
+      <server useHttp="false" host="github.com" />
+    </account>
+  </component>
+</application>
